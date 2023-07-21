@@ -19,6 +19,7 @@ Execution Steps :
    4. click on Open.
 
 5. Open mysql workbench and type below queries :
+   
    1 - Create database with name bankmanagementsystem in mysql
 
        create database bankmanagementsystem;
@@ -47,4 +48,4 @@ Execution Steps :
 
        create table bank(pin varchar(10), date varchar(50), type varchar(20), amount varchar(20));
 
-6. Run the code.
+7. Run the code.
